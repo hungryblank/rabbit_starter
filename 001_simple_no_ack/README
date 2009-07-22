@@ -1,0 +1,7 @@
+this is the most simple example
+
+please note that since there's not message aknowledgement and prefetch setting
+each client receives instantly from RabbitMQ as many messages as it takes to
+fill the TCP buffer.
+
+Notice the difference between the subscribing client and the 'pop' client

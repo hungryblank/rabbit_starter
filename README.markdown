@@ -25,8 +25,8 @@ in my RabbitMQ presentation at http://www.rails-underground.com/
   
 ## Requirements
   You need to have 
-  *   tmm1-amqp gem version 0.6.4 or later
-  *   rabbitMQ server version 1.6.0 or later
+*   tmm1-amqp gem version 0.6.4 or later
+*   rabbitMQ server version 1.6.0 or later
 
 ## Authors
   Paolo Negri

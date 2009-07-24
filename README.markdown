@@ -2,6 +2,7 @@
 
 This project provides some basic implementations of the concepts exposed
 in my RabbitMQ presentation at http://www.rails-underground.com/
+slides are available at http://www.slideshare.com/hungryblank
 
 ## Description
   To start any of the scripts included you need to check first hat you have
@@ -12,14 +13,13 @@ in my RabbitMQ presentation at http://www.rails-underground.com/
 
 *   the message producer, a script that publishes messages on the 'jobs' queue
 
-*   a system_command script, that publishes the argument passed on the 'system queue'
+*   a system_command script, that publishes the argument passed on the 'system' queue
 
 *   a heartbeat_monitor script that collects the messages on the heartbeat
     queue and polls the 'jobs' queue status
 
-  The project is divided in directory, every directory includes one message
+  The rest of project is divided in directory, every directory includes one or more
   consumer scripts.
-
 
   Multiple consumers and producers can be active at the same time 
   

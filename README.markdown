@@ -2,12 +2,7 @@
 
 This project provides some basic implementations of the concepts exposed
 in my RabbitMQ presentation at http://www.rails-underground.com/
-slides are available at http://www.slideshare.com/hungryblank
-
-
-<div style="width:425px;text-align:left" id="__ss_1767558"><a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/hungryblank/distributed-and-concurrent-programming-with-rabbitmq-and-eventmachine-rails-underground-2009" title="Distributed and concurrent programming with RabbitMQ and EventMachine Rails Underground 2009">Distributed and concurrent programming with RabbitMQ and EventMachine Rails Underground 2009</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=rabbitmq-eventmachine-railsunderground-2009-090725043803-phpapp02&stripped_title=distributed-and-concurrent-programming-with-rabbitmq-and-eventmachine-rails-underground-2009" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=rabbitmq-eventmachine-railsunderground-2009-090725043803-phpapp02&stripped_title=distributed-and-concurrent-programming-with-rabbitmq-and-eventmachine-rails-underground-2009" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">View more <a style="text-decoration:underline;" href="http://www.slideshare.net/">documents</a> from <a style="text-decoration:underline;" href="http://www.slideshare.net/hungryblank">Paolo Negri</a>.</div></div>
-
-
+slides are available [on slideshare](http://www.slideshare.net/hungryblank/distributed-and-concurrent-programming-with-rabbitmq-and-eventmachine-rails-underground-2009 "Distributed and concurrent programming with RabbitMQ and EventMachine Rails Underground 2009")
 ## Description
   To start any of the scripts included you need to check first hat you have
 
